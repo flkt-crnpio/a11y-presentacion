@@ -1,24 +1,34 @@
-# presentacion
+# "Accesibilidad para la visualización de datos”
 
-## Project setup
+Presentación para [PyLadies WiDS](https://pyladies-cdmx.github.io/wids-cdmx-2021/#inicio)
+
+Comité organizador WIDS Mexico city 2021
+
+PyLadies CDMX - Women in Data Science, Power and Engineering
+
+___
+  
+Por Magaly Ruiz
+* [twitter](https://twitter.com/flktcrnpio)
+* [github](https://github.com/flkt-crnpio)
+* [codepen](https://codepen.io/flkt-crnpio)
+
+___
+
+## Requisitos
+Este proyecto fue creado con
+* node js
+* npm
+* vue-cli
+
+
+## Clona el reporistorio y despues instala las dependencias con
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+
+### compila local con
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
