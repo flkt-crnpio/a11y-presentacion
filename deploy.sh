@@ -15,6 +15,7 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
+git branch -M main
 
 git push -f git@github.com:flkt-crnpio/a11y-presentacion.git main:gh-pages
 
