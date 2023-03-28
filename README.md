@@ -1,4 +1,4 @@
-# "Accesibilidad para la visualización de datos”
+# "[Accesibilidad para la visualización de datos](https://flkt-crnpio.github.io/a11y-presentacion/)”
 
 Presentación para [PyLadies WiDS](https://pyladies-cdmx.github.io/wids-cdmx-2021/#inicio)
 
@@ -8,27 +8,7 @@ PyLadies CDMX - Women in Data Science, Power and Engineering
 
 ___
 
-## Requisitos
-Este proyecto fue creado con
-* node js
-* npm
-* vue-cli
-* swiper
+[Accesibilidad para la visualización de datos](https://flkt-crnpio.github.io/a11y-presentacion/)
 
-
-## Clona el reporistorio y despues instala las dependencias con
-```
-npm install
-```
-
-### compila local con
-```
-npm run serve
-```
-
-___
-  
-Por Magaly Ruiz
-* [twitter](https://twitter.com/flktcrnpio)
-* [github](https://github.com/flkt-crnpio)
-* [codepen](https://codepen.io/flkt-crnpio)
+* En escritorio utiliza los botones atras adelante para navegar
+* En celular puedes deslizar hacia los lados la pantalla
